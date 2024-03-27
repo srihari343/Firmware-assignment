@@ -35,11 +35,4 @@ void loop() {
     //Led blinks at every 500 ms
     monitor.blink(500,500);  
   }
-
-  
-  
-  
-  
-
-  //monitor.blinkDelay(1000); // wait a second between readings
 }
